@@ -1,2 +1,2 @@
 # classification
-classification objects 
+classification of objects into two classes
